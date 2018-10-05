@@ -14,6 +14,7 @@
 		2B89F4F321657E540094683D /* AddNagViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B89F4F221657E540094683D /* AddNagViewController.swift */; };
 		2B89F4F7216582560094683D /* ViewControllerOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B89F4F6216582560094683D /* ViewControllerOne.swift */; };
 		2B89F4F9216582760094683D /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B89F4F8216582760094683D /* ViewControllerTwo.swift */; };
+		2B89F4FB2166EB380094683D /* AddNagNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B89F4FA2166EB380094683D /* AddNagNoteViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2B89F4F221657E540094683D /* AddNagViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNagViewController.swift; sourceTree = "<group>"; };
 		2B89F4F6216582560094683D /* ViewControllerOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerOne.swift; sourceTree = "<group>"; };
 		2B89F4F8216582760094683D /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
+		2B89F4FA2166EB380094683D /* AddNagNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNagNoteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				2B89F4F221657E540094683D /* AddNagViewController.swift */,
 				2B89F4F6216582560094683D /* ViewControllerOne.swift */,
 				2B89F4F8216582760094683D /* ViewControllerTwo.swift */,
+				2B89F4FA2166EB380094683D /* AddNagNoteViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				2B89F4F7216582560094683D /* ViewControllerOne.swift in Sources */,
 				2B89F4F321657E540094683D /* AddNagViewController.swift in Sources */,
 				2B89F4E121657B120094683D /* AppDelegate.swift in Sources */,
+				2B89F4FB2166EB380094683D /* AddNagNoteViewController.swift in Sources */,
 				2B89F4F9216582760094683D /* ViewControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
